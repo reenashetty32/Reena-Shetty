@@ -46,7 +46,7 @@
 
 ## 🎓 **Education**
 
-- **Canara Engineering College (B.E. in Computer Science):** GPA 8.17 (2021 - Present)  
+- **Canara Engineering College (B.E. in Computer Science):** CGPA 8.17 (2021 - Present)  
 - **Pana Pre-University (PCMB):** 93% (2019 - 2021)  
 - **Our Lady of Pompei (Secondary School):** 93.6% (2019)  
 
@@ -73,4 +73,4 @@
 - 📧 Email: [reenashetty32@gmail.com](mailto:reenashetty32@gmail.com)  
 - 📱 Phone: +91 7892004836  
 - 💼 LinkedIn: [www.linkedin.com/in/ReenaShetty10] 
-- 🌟 GitHub: [Reena D Shetty](#)  
+- 🌟 GitHub: [https://github.com/reenashetty32]  
